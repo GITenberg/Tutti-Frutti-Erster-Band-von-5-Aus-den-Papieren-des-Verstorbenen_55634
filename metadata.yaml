@@ -1,11 +1,16 @@
 _repo: Tutti-Frutti-Erster-Band-von-5-Aus-den-Papieren-des-Verstorbenen_55634
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55634-h/images/cover.jpg
 creator:
   author:
     agent_name: Pückler-Muskau, Hermann von
     gutenberg_agent_id: '48428'
     url: http://www.gutenberg.org/2009/agents/48428
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55634#Tutti-Frutti-Erster-Band-von-5-Aus-den-Papieren-des-Verstorbenen
 gutenberg_issued: '2017-09-26'
 gutenberg_type: Text
 identifiers:
